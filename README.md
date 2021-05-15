@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Easytrom Labs Tecnologia
+- 👋 Hi, I’m @Easytrom Labs Tecnologia, manteined by @Eduardo Avelar
 - 👀 I’m interested in Eletronic, Telecomunication, Microcontrollers, Embedde Linux and Programing in general
 - 🌱 I’m currently learning Image processing, OPEN CV and data structure in C
 - 💞️ I’m looking to collaborate on microcontroller projects, mainly writen in C.
