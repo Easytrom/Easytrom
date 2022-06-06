@@ -2,7 +2,7 @@
 - 👀 I’m interested in Electronic, Telecommunications, Microcontrollers, Embedded Linux and Programing in general
 - 🌱 I'm currently learning Image processing, OPENCV and data structure in C
 - 💞️ I’m looking to collaborate on microcontroller projects, mainly written in C/C++.
-- 📫 How to reach me: contato@easytromlabs.com , https://easytromlabs.com/
+- 📫 How to reach me: contato@easytromlabs.com, eduardo.avelar@easytromlabs.com, https://easytromlabs.com/
 
 <!---
 Easytrom/Easytrom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
